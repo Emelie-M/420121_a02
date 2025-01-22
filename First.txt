@@ -7,3 +7,5 @@ Here is more text.
 I don't know what more to add...
 
 This is the conclusion of this text.
+
+This is finally the end.
