@@ -1,2 +1,4 @@
+I added some text to the top.
+
 Here is a second file.
 It's still as normal as the first file.
