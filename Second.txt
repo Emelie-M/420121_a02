@@ -7,3 +7,5 @@ It's still as normal as the first file.
 Added to the bottom.
 
 Added more text to the bottom.
+
+Here's a conclusion to end the text of the file.
