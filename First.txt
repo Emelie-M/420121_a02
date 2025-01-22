@@ -1,2 +1,5 @@
 This is my first file
-it's a normal file
+it's a normal file.
+
+I've added another line
+Here is more text.
